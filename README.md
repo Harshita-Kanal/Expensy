@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+## Expensy
+An expense tracker using React, Material-UI, Context API and Chart.js 💸💲💹
+
+## Demo
+![45](https://user-images.githubusercontent.com/41537515/147306332-283ee508-e6a4-4597-bc81-56b85172ffc7.PNG)
+
+Try it on Netlify: https://expensy-track.netlify.app/
+
+## Build and Run
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
